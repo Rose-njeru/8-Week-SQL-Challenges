@@ -60,7 +60,7 @@ Generate an alphabetically ordered comma separated ingredient list for each pizz
 For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 5. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
-View Solution here
+[View Solution here](View solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Ingredient%20Optimization/Ingredient%20Optimization.sql)
 
 #### D. Pricing and Rating
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
