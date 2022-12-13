@@ -5,7 +5,7 @@
 ## 📚 Table of Contents
 + Business Task
 + Entity Relationship Diagram
-+ Data Cleaning
++ Data Cleaning and Transformation
 + Case Study Questions
 +  SQL solution
   
@@ -18,7 +18,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ### Entity Relationship Diagram 
 ![This is an image](https://user-images.githubusercontent.com/81607668/127271531-0b4da8c7-8b24-4a14-9093-0795c4fa037e.png)
 
-### Data CLeaning and Transformation
+### Data Cleaning and Transformation
 [View the solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Data%20Cleaning%20and%20Transformation/Data%20Cleaning%20and%20Transformation.sql)
 
 ### Case Study Questions
@@ -34,7 +34,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week
 
-[View solution here[(https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Pizza%20Metrics/Pizza%20Metric.sql)
+[View solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Pizza%20Metrics/Pizza%20Metric.sql)
 
 #### B. Runner and Customer Experience
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
@@ -45,7 +45,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
 
-[View solution here](
+[View solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Runner%20and%20Customer%20Experience/Runner%20and%20Customer%20Experience.sql)
 
 #### C. Ingredient Optimization
 1. What are the standard ingredients for each pizza?
