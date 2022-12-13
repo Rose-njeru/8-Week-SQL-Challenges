@@ -19,7 +19,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ![This is an image](https://user-images.githubusercontent.com/81607668/127271531-0b4da8c7-8b24-4a14-9093-0795c4fa037e.png)
 
 ### Data CLeaning and Transformation
-View the solution here
+[View the solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Data%20Cleaning%20and%20Transformation/Data%20Cleaning%20and%20Transformation.sql)
 
 ### Case Study Questions
 #### A. Pizza Metrics
@@ -34,7 +34,7 @@ View the solution here
 9. What was the total volume of pizzas ordered for each hour of the day?
 10. What was the volume of orders for each day of the week
 
-View solution here
+[View solution here[(https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Pizza%20Metrics/Pizza%20Metric.sql)
 
 #### B. Runner and Customer Experience
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
@@ -45,7 +45,7 @@ View solution here
 6. What was the average speed for each runner for each delivery and do you notice any trend for these values?
 7. What is the successful delivery percentage for each runner?
 
-View solution here
+[View solution here](
 
 #### C. Ingredient Optimization
 1. What are the standard ingredients for each pizza?
@@ -60,7 +60,7 @@ Generate an alphabetically ordered comma separated ingredient list for each pizz
 For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 5. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
-[View Solution here](View solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Ingredient%20Optimization/Ingredient%20Optimization.sql)
+[View Solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Ingredient%20Optimization/Ingredient%20Optimization.sql)
 
 #### D. Pricing and Rating
 1. If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
@@ -80,7 +80,9 @@ Average speed
 Total number of pizzas
 5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
 
-View Solution here
+[View Solution here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Pricing%20and%20Ratings/Pricing%20and%20Ratings.sql)
+
+[Case Study Solution Here](https://github.com/Rose-njeru/8-Week-SQL-Challenges/blob/main/Case%20Study%20%232%20-Pizza%20runner/Pizza_Runner.sql)
 
 
 
